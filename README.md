@@ -1,3 +1,6 @@
+<img align="center" src="https://github.com/AsteroAlien/AsteroAlien/blob/main/text.gif" />
+
+
 # Hi there, Im Charles 👋
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical" />

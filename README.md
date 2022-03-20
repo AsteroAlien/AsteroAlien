@@ -1,4 +1,8 @@
-<img align="center" src="https://github.com/AsteroAlien/AsteroAlien/blob/main/text.gif" />
+<p align="center">
+
+  <img src="https://github.com/AsteroAlien/AsteroAlien/blob/main/text.gif" alt="animated"/>
+</p>
+
 
 
 # Hi there, Im Charles 👋

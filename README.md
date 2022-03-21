@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/AsteroAlien/AsteroAlien/blob/main/text.gif" alt="animated"/>
   <img height="190"  src="https://github.com/AsteroAlien/AsteroAlien/blob/main/icon.png" alt="animated"/>
@@ -6,7 +5,7 @@
 <br/>
 <br/>
 
-# Hi there, Im Charles! 👋
+<h1 align="center">Hi there, Im Charles! 👋</h1>
 <p styles = "font-size:18px;" align="center">
 I'm a third-year student at the Cape Peninsula University of Technology and I am currently studying Information Communication Technology in the field of Application Development.
   
@@ -16,7 +15,7 @@ I'm a third-year student at the Cape Peninsula University of Technology and I am
 <br/>
 <br/>
 
-# My Skill Set 👨🏽‍💻
+<h1 align="center">My Skill Set 👨🏽‍💻 </h1>
 <br/>
 
 <p align="center">
@@ -36,6 +35,14 @@ I'm a third-year student at the Cape Peninsula University of Technology and I am
 <img height="40" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p> 
 
-# My Stats
+<h1 align="center">What am I currently Learning/Working On</h1>
+
+- 🌱 I’m currently learning **Kotlin Android Dev, Python and JavaScript**
+
+- 📝 I regularly write articles on [www.charleslemmert.com](https://charleslemmert.com/)
+
+<!--- - 📫 How to reach me **brandonkruger@protonmail.com**-->
+
+<h1 align="center">My Stats</h1>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical" />
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Alien&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />

@@ -7,11 +7,15 @@
 <br/>
 
 # Hi there, Im Charles! 👋
+<p size="" align="center">
+I'm a third-year student at the Cape Peninsula University of Technology and I am currently studying Information Communication Technology in the field of Application Development.
+I have a passion for software development and strive for success in everything I do.In my free time I do Freelance web development and design and aim to put in 100% in every project I work on. :)__
+</p>
 
 <br/>
 <br/>
 
-## Having fun with these stack 👨🏽‍💻
+# My Skill Set 👨🏽‍💻
 <br/>
 
 <p align="center">
@@ -27,6 +31,11 @@
 <img height="40" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical" />
+<p align="center">
+<img height="40" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p> 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Alien&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+# My Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Alien&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />

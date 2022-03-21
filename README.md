@@ -8,8 +8,8 @@
 <h1 align="center">Hi there, Im Charles! 👋</h1>
 <h4  align="center">
 I'm a third-year student at the Cape Peninsula University of Technology and I am currently studying Information Communication Technology in the field of Application Development.
-  
-&nbsp;I have a passion for software development and strive for success in everything I do. In my free time I do Freelance web development and &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;design and aim to put in 100% in every project I work on. 😊
+<br/>
+&nbsp;I have a passion for software development and strive for success in everything I do. In my free time I do Freelance web development and design and aim to put in 100% in every project I work on. 😊
 </h4>
 
 <br/>
@@ -45,6 +45,8 @@ I'm a third-year student at the Cape Peninsula University of Technology and I am
 - 📝 Check out my website if you have time: [**www.charleslemmert.com**](https://charleslemmert.com/)
 
 <!--- - 📫 How to reach me **info@charleslemmert.com**-->
+
+<h3>&nbsp; &nbsp;Contact Me:</h3>
 
 <h1 align="center">My Stats</h1>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical" />

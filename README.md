@@ -13,7 +13,6 @@ I'm a third-year student at the Cape Peninsula University of Technology and I am
 </p>
 
 <br/>
-<br/>
 
 <h1 align="center">My Skill Set 👨🏽‍💻 </h1>
 <br/>
@@ -33,15 +32,17 @@ I'm a third-year student at the Cape Peninsula University of Technology and I am
 
 <p align="center">
 <img height="40" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p> 
+</p>
 
-<h1 align="center">What am I currently Learning/Working On</h1>
+<br/>
+
+<h1 align="center">What am I up to</h1>
 
 - 🌱 I’m currently learning **Kotlin Android Dev, Python and JavaScript**
 
-- 📝 I regularly write articles on [www.charleslemmert.com](https://charleslemmert.com/)
+- 📝 Check out my website if you have time: [**www.charleslemmert.com**](https://charleslemmert.com/)
 
-<!--- - 📫 How to reach me **brandonkruger@protonmail.com**-->
+<!--- - 📫 How to reach me **info@charleslemmert.com**-->
 
 <h1 align="center">My Stats</h1>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical" />

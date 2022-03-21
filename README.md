@@ -6,11 +6,11 @@
 <br/>
 
 <h1 align="center">Hi there, Im Charles! 👋</h1>
-<p styles = "font-size:18px;" align="center">
+<h4  align="center">
 I'm a third-year student at the Cape Peninsula University of Technology and I am currently studying Information Communication Technology in the field of Application Development.
   
 &nbsp;I have a passion for software development and strive for success in everything I do. In my free time I do Freelance web development and &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;design and aim to put in 100% in every project I work on. 😊
-</p>
+</h4>
 
 <br/>
 
@@ -33,6 +33,8 @@ I'm a third-year student at the Cape Peninsula University of Technology and I am
 <p align="center">
 <img height="40" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
+
+<h3 align="center">And still growing...</h3>
 
 <br/>
 

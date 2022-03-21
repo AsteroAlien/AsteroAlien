@@ -36,6 +36,5 @@ I have a passion for software development and strive for success in everything I
 </p> 
 
 # My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Alien&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical" />
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Alien&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />

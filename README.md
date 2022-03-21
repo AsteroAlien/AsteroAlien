@@ -1,11 +1,13 @@
 
 <p align="center">
   <img src="https://github.com/AsteroAlien/AsteroAlien/blob/main/text.gif" alt="animated"/>
+  <img height="190"  src="https://github.com/AsteroAlien/AsteroAlien/blob/main/icon.png" alt="animated"/>
 </p>
-
-
+<br/>
+<br/>
 
 # Hi there, Im Charles! 👋
+
 <br/>
 <br/>
 

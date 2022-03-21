@@ -10,7 +10,7 @@
 <p styles = "font-size:18px;" align="center">
 I'm a third-year student at the Cape Peninsula University of Technology and I am currently studying Information Communication Technology in the field of Application Development.
   
-&nbsp;&nbsp;I have a passion for software development and strive for success in everything I do. In my free time I do Freelance web development and &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp;design and aim to put in 100% in every project I work on. 😊
+&nbsp;I have a passion for software development and strive for success in everything I do. In my free time I do Freelance web development and &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp;design and aim to put in 100% in every project I work on. 😊
 </p>
 
 <br/>

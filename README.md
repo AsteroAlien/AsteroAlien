@@ -38,25 +38,6 @@ I'm a third-year student at the Cape Peninsula University of Technology and I am
 
 <br/>
 
-<h1 align="center">What am I up to</h1>
-
-- 🌱 I’m currently learning **Kotlin Android Dev, Python and JavaScript**
-
-- 📝 Check out my website if you have time: [**www.charleslemmert.com**](https://charleslemmert.com/)
-
-<!--- - 📫 How to reach me **info@charleslemmert.com**-->
-
-<h3>&nbsp; &nbsp;Contact Me:</h3>
-
-- <a href="https://www.instagram.com/charleslemmert/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-
-- <a href="https://www.linkedin.com/in/charles-lemmert-5982b51a9/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
 <h1 align="center">My Stats</h1>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AsteroAlien&show_icons=true&theme=radical" />
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Alien&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />

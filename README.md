@@ -49,7 +49,7 @@
 ### Alternative Github Account Stats
 ![Astro-Alien's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical)
 
-### Current Github Account State
+### Current Github Account Stats
 ![Astero-Alien's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AsteroAlien&show_icons=true&theme=radical)
 
 ---

@@ -41,8 +41,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Astero-Alien&show_icons=true&theme=react&hide=contribs&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astero-Alien&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsteroAlien&show_icons=true&theme=react&hide=contribs&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsteroAlien&theme=react" />
 </div>
 
 ---

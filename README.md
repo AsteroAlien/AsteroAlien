@@ -50,7 +50,7 @@
 ![Astro-Alien's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical)
 
 ### Current Github Account State
-![Astero-Alien's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Astero-Alien&show_icons=true&theme=radical)
+![Astero-Alien's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AsteroAlien&show_icons=true&theme=radical)
 
 ---
 

@@ -40,10 +40,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical" />
-  <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Alien&layout=compact" />
-</div>
+![Astro-Alien's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical)
 
 ---
 

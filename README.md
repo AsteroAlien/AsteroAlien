@@ -38,9 +38,19 @@
 
 ---
 
+## 📈 Alternative GitHub
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Astro-Alien)
+
+---
+
 ## 📈 GitHub Stats
 
+### Alternative Github Account Stats
 ![Astro-Alien's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical)
+
+### Current Github Account State
+![Astero-Alien's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Astero-Alien&show_icons=true&theme=radical)
 
 ---
 
